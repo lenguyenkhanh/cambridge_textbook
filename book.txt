@@ -1,0 +1,17 @@
+Frontmatter -- Daniel J. Velleman 
+7 - Number Theory -- Daniel J. Velleman 
+Suggestions for Further Reading -- Daniel J. Velleman 
+8 - Infinite Sets -- Daniel J. Velleman 
+6 - Mathematical Induction -- Daniel J. Velleman 
+5 - Functions -- Daniel J. Velleman 
+Appendix - Solutions to Selected Exercises -- Daniel J. Velleman 
+4 - Relations -- Daniel J. Velleman 
+Summary of Proof Techniques -- Daniel J. Velleman 
+2 - Quantificational Logic -- Daniel J. Velleman 
+1 - Sentential Logic -- Daniel J. Velleman 
+3 - Proofs -- Daniel J. Velleman 
+Introduction -- Daniel J. Velleman 
+Preface -- Daniel J. Velleman 
+Dedication -- Daniel J. Velleman 
+Contents -- Daniel J. Velleman 
+Index -- Daniel J. Velleman 
